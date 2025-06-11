@@ -1,7 +1,1 @@
-echo "# Classification_BERT_EmotionData" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/indrawanth/Classification_BERT_EmotionData.git
-git push -u origin main
+
